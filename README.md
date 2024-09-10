@@ -28,8 +28,6 @@
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
 [![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samgilmore&layout=compact&theme=radical)
-
 ---
 
 ### Top Projects:
