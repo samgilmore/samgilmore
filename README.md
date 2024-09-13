@@ -1,12 +1,8 @@
 <h3>Hi there! I'm <span style="color:#f0db4f;">Sam</span> 👋</h3>
 <p><i>Welcome to my GitHub profile!</i></p>
 
-<a href="https://www.linkedin.com/in/s-gilmore/">
-  <img src="https://img.shields.io/badge/-Sam_Gilmore-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="https://www.samgilmore.dev">
-  <img src="https://img.shields.io/badge/-samgilmore.dev-green?style=for-the-badge&logo=appveyor" alt="Portfolio Badge">
-</a>
+[![LinkedIn](https://img.shields.io/badge/-Sam_Gilmore-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/s-gilmore/)
+[![Portfolio](https://img.shields.io/badge/-samgilmore.dev-green?style=for-the-badge&logo=appveyor)](https://www.samgilmore.dev)
 
 ---
 
@@ -32,18 +28,13 @@
 
 ### Top Projects:
 
-<a href="https://apps.apple.com/us/app/centible/id6443507950">
-  <img src="https://img.shields.io/badge/-Centible-blue?style=for-the-badge&logo=apple&logoColor=white" alt="Centible">
-</a>
-<a href="https://apps.apple.com/us/app/docuden/id6615082889">
-  <img src="https://img.shields.io/badge/-DocuDen-red?style=for-the-badge&logo=apple&logoColor=white" alt="DocuDen">
-</a>
-<a href="https://github.com/samgilmore/SwiftNetKit">
-  <img src="https://img.shields.io/badge/-SwiftNetKit-orange?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftNetKit">
-</a>
+
+[![Centible](https://img.shields.io/badge/-Centible-blue?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/centible/id6443507950)
+[![DocuDen](https://img.shields.io/badge/-DocuDen-red?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/docuden/id6615082889)
+[![SwiftNetKit](https://img.shields.io/badge/-SwiftNetKit-orange?style=for-the-badge&logo=swift&logoColor=white)](https://github.com/samgilmore/SwiftNetKit)
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="400">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" width="500">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsamgilmore&count_bg=%23163A8E&title_bg=%23191919&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
